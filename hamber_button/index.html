@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .container{
+            display: flex;
+            flex: column;
+            flex-wrap: wrap;
+            
+            width: 2.5rem;
+            height: 2.5rem;
+            background-color: #ccc;
+            cursor: pointer;
+            justify-content: space-between;
+        }
+
+        .container .bar {
+            height: 3px;
+            border-radius: 3px;
+            margin-bottom: 5px;
+            background-color: blue;
+        }
+
+        .top {
+            width: 20px;
+        }
+
+
+    </style>
+
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="bar top"></div>
+        <div class="bar mid"></div>
+        <div class="bar bot"></div>
+    </div>
+</body>
+
+</html>
