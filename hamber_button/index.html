@@ -9,7 +9,7 @@
     <style>
         .container{
             display: flex;
-            flex: column;
+            flex-direction: column;
             flex-wrap: wrap;
             
             width: 2.5rem;
@@ -23,11 +23,21 @@
             height: 3px;
             border-radius: 3px;
             margin-bottom: 5px;
-            background-color: blue;
+            background-color: black;
+            transform-origin: left;
+            transition: all 0.3s;
         }
 
-        .top {
-            width: 20px;
+        .container:hover .top{
+            transform: rotate(45deg);
+        }
+
+        .container:hover mid{
+            opacity: 0;
+        }
+
+        .container:hover .bot{
+            transform: rotate(-45deg);
         }
 
 
