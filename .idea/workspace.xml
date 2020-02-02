@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="912a1452-0dd1-4e8a-a3a2-34992f895041" name="Default Changelist" comment="css triangle">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/triangle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/triangle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/border_with_top_triangle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/border_with_top_triangle/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +49,7 @@
       <workItem from="1580438797948" duration="1565000" />
       <workItem from="1580441973430" duration="1356000" />
       <workItem from="1580465804513" duration="1223000" />
+      <workItem from="1580650753247" duration="374000" />
     </task>
     <task id="LOCAL-00001" summary="add transition animation">
       <created>1580440019514</created>
