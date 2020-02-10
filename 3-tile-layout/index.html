@@ -1,0 +1,44 @@
+<!--Align items horizontally using display: inline-block to create a 3-tile layout.-->
+
+<!--Use display: inline-block to create a tiled layout, without using float, flex or grid.-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .container{
+            width: 900px;
+            font-size: 0;
+        }
+        .tile{
+            width: calc(900px / 3);
+            height: 150px;
+            background-color: grey;
+            display: inline-block;
+        }
+
+        .tile h2{
+            font-size: 20px;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="tile">
+                <img class="tile_image" src="https://via.placeholder.com/250x150" alt="placeholder" >
+                <h2 class="tile_title">30 Seconds of CSS</h2>
+        </div>
+        <div class="tile">
+                <img class="tile_image" src="https://via.placeholder.com/250x150" alt="placeholder" >
+                <h2 class="tile_title">30 Seconds of CSS</h2>
+        </div>
+        <div class="tile">
+                <img class="tile_image" src="https://via.placeholder.com/250x150" alt="placeholder" >
+                <h2 class="tile_title">30 Seconds of CSS</h2>
+        </div>
+    </div>
+</body>
+</html>
