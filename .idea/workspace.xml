@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="912a1452-0dd1-4e8a-a3a2-34992f895041" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/popup-menu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/do-not-select-text/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,6 +34,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\my_30_seconds_css" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -64,7 +69,7 @@
       <workItem from="1580705375530" duration="37000" />
       <workItem from="1580705432785" duration="5131000" />
       <workItem from="1580867286830" duration="125000" />
-      <workItem from="1581321116126" duration="1700000" />
+      <workItem from="1581321116126" duration="2448000" />
     </task>
     <task id="LOCAL-00001" summary="add transition animation">
       <created>1580440019514</created>
@@ -101,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580738390855</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add pop up menu">
+      <created>1581325686310</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581325686310</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +139,7 @@
     <MESSAGE value="css triangle" />
     <MESSAGE value="fix position" />
     <MESSAGE value="done" />
-    <option name="LAST_COMMIT_MESSAGE" value="done" />
+    <MESSAGE value="add pop up menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pop up menu" />
   </component>
 </project>
