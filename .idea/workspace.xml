@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="912a1452-0dd1-4e8a-a3a2-34992f895041" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3-tile-layout/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custom-variable/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,7 +69,8 @@
       <workItem from="1580705375530" duration="37000" />
       <workItem from="1580705432785" duration="5131000" />
       <workItem from="1580867286830" duration="125000" />
-      <workItem from="1581321116126" duration="6047000" />
+      <workItem from="1581321116126" duration="7247000" />
+      <workItem from="1581402219305" duration="1629000" />
     </task>
     <task id="LOCAL-00001" summary="add transition animation">
       <created>1580440019514</created>
@@ -120,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581326680680</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="...">
+      <created>1581341324127</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1581341324127</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +156,7 @@
     <MESSAGE value="done" />
     <MESSAGE value="add pop up menu" />
     <MESSAGE value="do not copy" />
-    <option name="LAST_COMMIT_MESSAGE" value="do not copy" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
