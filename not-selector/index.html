@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .css-not-selector-shortcut{
+        }
+
+        .css-not-selector-shortcut li{
+            display: inline-block;
+            list-style: none;
+            padding-right: 5px;
+            font-size: 20px;
+        }
+
+        li:not(:last-child){
+            border-right: 2px solid darkgrey;
+        }
+
+    </style>
+</head>
+<body>
+<ul class="css-not-selector-shortcut">
+    <li>One</li>
+    <li>Two</li>
+    <li>Three</li>
+    <li>Four</li>
+</ul>
+</body>
+</html>
