@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="912a1452-0dd1-4e8a-a3a2-34992f895041" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/donut-spinner/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toggle-switch/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pulse-loader/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,8 +54,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/my_30_seconds_css/donut-spinner/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/my_30_seconds_css/pulse-loader/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/my_30_seconds_css/not-selector/index.html" useBuiltInWebServerPort="true">
@@ -64,6 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
@@ -88,7 +91,8 @@
       <workItem from="1580705432785" duration="5131000" />
       <workItem from="1580867286830" duration="125000" />
       <workItem from="1581321116126" duration="7247000" />
-      <workItem from="1581402219305" duration="2845000" />
+      <workItem from="1581402219305" duration="3232000" />
+      <workItem from="1581477513412" duration="2739000" />
     </task>
     <task id="LOCAL-00001" summary="add transition animation">
       <created>1580440019514</created>
@@ -167,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581432102234</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="donut">
+      <created>1581432788960</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1581432788960</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +209,8 @@
     <MESSAGE value="custom variable needs special prefix" />
     <MESSAGE value="..." />
     <MESSAGE value="not selector" />
-    <option name="LAST_COMMIT_MESSAGE" value="not selector" />
+    <MESSAGE value="donut" />
+    <option name="LAST_COMMIT_MESSAGE" value="donut" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/my_30_seconds_css$index_html.dat" NAME="index.html Coverage Results" MODIFIED="1581432467820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
